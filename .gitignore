@@ -5,7 +5,6 @@ node_modules/
 .env
 
 # Editor settings
-.vscode/
 .idea/
 
 # Regenerable output. The assembled book.html IS committed (so you can read a
@@ -17,3 +16,7 @@ node_modules/
 # images like docs/images/page-anatomy.png, silently, and break the README on GitHub.
 books/**/page*.png
 /page*.png
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
